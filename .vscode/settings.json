@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "lenskart_clone"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
